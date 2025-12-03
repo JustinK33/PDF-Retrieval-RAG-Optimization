@@ -67,10 +67,7 @@ A notebook-based project that turns a raw mortgage PDF into a searchable, questi
 
 - **Using rerankers to improve answer grounding**  
   I learned how a cross-encoder reranker can significantly improve relevance by re-scoring small sets of candidate chunks before they reach the LLM.
-
-- **Managing secrets and environments for AI projects**  
-  I set up a `.env` file, used `python-dotenv` to load `GOOGLE_API_KEY`, and added `.env` and sample PDFs to `.gitignore` so the project is safe to share on GitHub.
-
+  
 ---
 
 ## Set up Jupyter Notebook
