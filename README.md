@@ -73,7 +73,8 @@ A notebook-based project that turns a raw mortgage PDF into a searchable, questi
 ## Set up Jupyter Notebook
 1. mkdir RAG
 2. cd RAG
-3. python -m venv venv
-4. source venv/bin/activate
-5. create a file with .ipynb
-6. select kernal (choose the venv you created in steps 3 & 4)
+3. git clone
+4. python -m venv venv
+5. source venv/bin/activate
+6. create a file with .ipynb
+7. select kernal (choose the venv you created in steps 3 & 4)
